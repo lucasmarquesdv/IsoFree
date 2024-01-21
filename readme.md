@@ -1,4 +1,4 @@
-# IsosFree (ISOS, VDIS e entre outros)
+# IsoFree (ISOS, VDIS e entre outros)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/lucasmarquesdv/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/lucasmarquesdv/README-template?style=for-the-badge)
